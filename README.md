@@ -12,7 +12,7 @@ Before training, faces are loaded with augmentation:
 - Zoom and shear
 - Brightness variations
 - Width and height shifts
-- 
+  
 A MobileNetV2 model pre-trained on ImageNet is used as the base.
 - Lower layers are frozen to retain generic features.
 - Deeper layers are fine-tuned to adapt to mask detection.
