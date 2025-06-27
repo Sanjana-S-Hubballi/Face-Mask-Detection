@@ -6,13 +6,16 @@ This project aims to detect and classify images faces in am image as either mask
 ## Workflow
 To detect faces, I used OpenCV’s SSD deep learning face detector (based on ResNet-10). The script takes raw images from a given folder and outputs cropped face images into two folders — one for faces with masks and one for without masks.
 After getting the face region, it crops out the face, resizes it to 224×224 pixels, normalizes it, and passes it through my MobileNetV2 model which predicts whether that face has a mask on or not.
+
+### Data Augmentation and Preprocessing:
 Before training, faces are loaded with augmentation:
 - Random flips
 - Rotations
 - Zoom and shear
 - Brightness variations
 - Width and height shifts
-  
+
+### Model Training with Transfer Learning:
 A MobileNetV2 model pre-trained on ImageNet is used as the base.
 - Lower layers are frozen to retain generic features.
 - Deeper layers are fine-tuned to adapt to mask detection.
