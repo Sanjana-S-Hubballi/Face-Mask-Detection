@@ -33,8 +33,8 @@ These metrics help assess the model’s effectiveness, especially in real-world 
 |------------------------|------------|
 | **Training Accuracy**  | 88.11%     |
 | **Validation Accuracy**| 88.59%     |
-| **Training Loss**      | 0.3403     |
-| **Validation Loss**    | 0.2484     |
+| **Training Loss**      | 34.03%    |
+| **Validation Loss**    | 24.84%     |
 | **Final Learning Rate**| 9e-7       |
 
 ## Confusion matrix
