@@ -1,7 +1,7 @@
 # Face mask Detection using MobileNet
 
 ## Overview
-This project aims to detect and classify images faces in am image as either masked or unmasked.
+This project aims to detect and classify images faces in an image as either masked or unmasked.
 
 ## Workflow
 To detect faces, I used OpenCV’s SSD deep learning face detector (based on ResNet-10). The script takes raw images from a given folder and outputs cropped face images into two folders — one for faces with masks and one for without masks.
