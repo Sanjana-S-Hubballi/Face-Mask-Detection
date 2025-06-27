@@ -1,0 +1,282 @@
+Filename,True Label,Predicted Label
+mask\maksssksksss100_0.jpg,Mask,Mask
+mask\maksssksksss103_0.jpg,Mask,Mask
+mask\maksssksksss104_2.jpg,Mask,No Mask
+mask\maksssksksss107_0.jpg,Mask,Mask
+mask\maksssksksss109_0.jpg,Mask,Mask
+mask\maksssksksss10_0.jpg,Mask,Mask
+mask\maksssksksss110_9.jpg,Mask,No Mask
+mask\maksssksksss111_0.jpg,Mask,No Mask
+mask\maksssksksss114_0.jpg,Mask,Mask
+mask\maksssksksss114_1.jpg,Mask,Mask
+mask\maksssksksss115_1.jpg,Mask,No Mask
+mask\maksssksksss116_0.jpg,Mask,Mask
+mask\maksssksksss117_0.jpg,Mask,Mask
+mask\maksssksksss11_0.jpg,Mask,Mask
+mask\maksssksksss11_1.jpg,Mask,Mask
+mask\maksssksksss11_2.jpg,Mask,Mask
+mask\maksssksksss11_3.jpg,Mask,No Mask
+mask\maksssksksss120_0.jpg,Mask,Mask
+mask\maksssksksss122_0.jpg,Mask,Mask
+mask\maksssksksss123_0.jpg,Mask,Mask
+mask\maksssksksss123_1.jpg,Mask,Mask
+mask\maksssksksss124_0.jpg,Mask,Mask
+mask\maksssksksss124_2.jpg,Mask,Mask
+mask\maksssksksss126_0.jpg,Mask,Mask
+mask\maksssksksss129_0.jpg,Mask,No Mask
+mask\maksssksksss132_0.jpg,Mask,Mask
+mask\maksssksksss133_0.jpg,Mask,Mask
+mask\maksssksksss134_2.jpg,Mask,No Mask
+mask\maksssksksss135_0.jpg,Mask,Mask
+mask\maksssksksss135_1.jpg,Mask,Mask
+mask\maksssksksss138_0.jpg,Mask,Mask
+mask\maksssksksss138_2.jpg,Mask,Mask
+mask\maksssksksss139_0.jpg,Mask,No Mask
+mask\maksssksksss140_0.jpg,Mask,Mask
+mask\maksssksksss140_1.jpg,Mask,Mask
+mask\maksssksksss141_0.jpg,Mask,Mask
+mask\maksssksksss142_0.jpg,Mask,Mask
+mask\maksssksksss143_0.jpg,Mask,Mask
+mask\maksssksksss146_0.jpg,Mask,Mask
+mask\maksssksksss146_1.jpg,Mask,Mask
+mask\maksssksksss148_2.jpg,Mask,Mask
+mask\maksssksksss150_0.jpg,Mask,Mask
+mask\maksssksksss155_0.jpg,Mask,Mask
+mask\maksssksksss15_0.jpg,Mask,Mask
+mask\maksssksksss160_0.jpg,Mask,Mask
+mask\maksssksksss162_0.jpg,Mask,Mask
+mask\maksssksksss165_0.jpg,Mask,Mask
+mask\maksssksksss165_1.jpg,Mask,Mask
+mask\maksssksksss167_0.jpg,Mask,Mask
+mask\maksssksksss168_0.jpg,Mask,Mask
+mask\maksssksksss169_0.jpg,Mask,Mask
+mask\maksssksksss16_0.jpg,Mask,Mask
+mask\maksssksksss171_0.jpg,Mask,Mask
+mask\maksssksksss173_0.jpg,Mask,No Mask
+mask\maksssksksss174_0.jpg,Mask,Mask
+mask\maksssksksss174_1.jpg,Mask,Mask
+mask\maksssksksss174_2.jpg,Mask,No Mask
+mask\maksssksksss174_3.jpg,Mask,No Mask
+mask\maksssksksss175_0.jpg,Mask,Mask
+mask\maksssksksss177_0.jpg,Mask,No Mask
+mask\maksssksksss17_0.jpg,Mask,Mask
+mask\maksssksksss180_0.jpg,Mask,Mask
+mask\maksssksksss182_0.jpg,Mask,Mask
+mask\maksssksksss182_1.jpg,Mask,No Mask
+mask\maksssksksss183_0.jpg,Mask,Mask
+mask\maksssksksss184_1.jpg,Mask,No Mask
+mask\maksssksksss184_2.jpg,Mask,No Mask
+mask\maksssksksss186_0.jpg,Mask,Mask
+mask\maksssksksss187_0.jpg,Mask,Mask
+mask\maksssksksss188_0.jpg,Mask,Mask
+mask\maksssksksss189_1.jpg,Mask,Mask
+mask\maksssksksss18_0.jpg,Mask,No Mask
+mask\maksssksksss18_1.jpg,Mask,Mask
+mask\maksssksksss190_0.jpg,Mask,Mask
+mask\maksssksksss191_0.jpg,Mask,Mask
+mask\maksssksksss192_0.jpg,Mask,Mask
+mask\maksssksksss193_0.jpg,Mask,Mask
+mask\maksssksksss193_1.jpg,Mask,Mask
+mask\maksssksksss195_0.jpg,Mask,Mask
+mask\maksssksksss196_0.jpg,Mask,Mask
+mask\maksssksksss197_0.jpg,Mask,No Mask
+mask\maksssksksss198_0.jpg,Mask,Mask
+mask\maksssksksss19_1.jpg,Mask,Mask
+mask\maksssksksss19_2.jpg,Mask,Mask
+mask\maksssksksss1_1.jpg,Mask,Mask
+mask\maksssksksss200_0.jpg,Mask,Mask
+mask\maksssksksss200_1.jpg,Mask,Mask
+mask\maksssksksss200_2.jpg,Mask,Mask
+mask\maksssksksss201_0.jpg,Mask,Mask
+mask\maksssksksss202_0.jpg,Mask,Mask
+mask\maksssksksss202_1.jpg,Mask,Mask
+mask\maksssksksss202_2.jpg,Mask,Mask
+mask\maksssksksss204_1.jpg,Mask,No Mask
+mask\maksssksksss204_2.jpg,Mask,Mask
+mask\maksssksksss205_0.jpg,Mask,Mask
+mask\maksssksksss206_0.jpg,Mask,Mask
+mask\maksssksksss206_1.jpg,Mask,Mask
+mask\maksssksksss207_0.jpg,Mask,Mask
+mask\maksssksksss208_0.jpg,Mask,Mask
+mask\maksssksksss208_1.jpg,Mask,Mask
+mask\maksssksksss209_1.jpg,Mask,No Mask
+mask\maksssksksss209_3.jpg,Mask,Mask
+mask\maksssksksss210_0.jpg,Mask,Mask
+mask\maksssksksss211_0.jpg,Mask,Mask
+mask\maksssksksss212_0.jpg,Mask,Mask
+mask\maksssksksss213_0.jpg,Mask,Mask
+mask\maksssksksss214_2.jpg,Mask,No Mask
+mask\maksssksksss215_0.jpg,Mask,Mask
+mask\maksssksksss215_1.jpg,Mask,Mask
+mask\maksssksksss219_0.jpg,Mask,Mask
+mask\maksssksksss219_1.jpg,Mask,Mask
+mask\maksssksksss21_0.jpg,Mask,Mask
+mask\maksssksksss21_2.jpg,Mask,Mask
+mask\maksssksksss21_3.jpg,Mask,Mask
+mask\maksssksksss220_0.jpg,Mask,Mask
+mask\maksssksksss221_0.jpg,Mask,Mask
+mask\maksssksksss224_0.jpg,Mask,Mask
+mask\maksssksksss225_0.jpg,Mask,Mask
+mask\maksssksksss228_0.jpg,Mask,Mask
+mask\maksssksksss229_1.jpg,Mask,Mask
+mask\maksssksksss229_2.jpg,Mask,No Mask
+mask\maksssksksss22_0.jpg,Mask,Mask
+mask\maksssksksss230_0.jpg,Mask,Mask
+mask\maksssksksss230_1.jpg,Mask,Mask
+mask\maksssksksss230_2.jpg,Mask,Mask
+mask\maksssksksss230_3.jpg,Mask,Mask
+mask\maksssksksss231_0.jpg,Mask,No Mask
+mask\maksssksksss231_2.jpg,Mask,No Mask
+mask\maksssksksss231_3.jpg,Mask,No Mask
+mask\maksssksksss234_0.jpg,Mask,Mask
+mask\maksssksksss23_0.jpg,Mask,Mask
+mask\maksssksksss241_0.jpg,Mask,Mask
+mask\maksssksksss242_0.jpg,Mask,Mask
+mask\maksssksksss243_0.jpg,Mask,Mask
+mask\maksssksksss244_0.jpg,Mask,Mask
+mask\maksssksksss249_1.jpg,Mask,Mask
+mask\maksssksksss250_2.jpg,Mask,Mask
+mask\maksssksksss251_2.jpg,Mask,No Mask
+mask\maksssksksss252_0.jpg,Mask,Mask
+mask\maksssksksss253_0.jpg,Mask,Mask
+mask\maksssksksss253_1.jpg,Mask,Mask
+mask\maksssksksss254_0.jpg,Mask,Mask
+mask\maksssksksss254_1.jpg,Mask,No Mask
+mask\maksssksksss254_2.jpg,Mask,Mask
+mask\maksssksksss255_0.jpg,Mask,Mask
+mask\maksssksksss257_1.jpg,Mask,No Mask
+mask\maksssksksss257_2.jpg,Mask,Mask
+mask\maksssksksss258_0.jpg,Mask,Mask
+no_mask\maksssksksss0_0.jpg,No Mask,Mask
+no_mask\maksssksksss0_1.jpg,No Mask,No Mask
+no_mask\maksssksksss102_0.jpg,No Mask,No Mask
+no_mask\maksssksksss103_1.jpg,No Mask,No Mask
+no_mask\maksssksksss104_0.jpg,No Mask,No Mask
+no_mask\maksssksksss104_1.jpg,No Mask,No Mask
+no_mask\maksssksksss110_0.jpg,No Mask,No Mask
+no_mask\maksssksksss110_1.jpg,No Mask,No Mask
+no_mask\maksssksksss110_10.jpg,No Mask,No Mask
+no_mask\maksssksksss110_11.jpg,No Mask,No Mask
+no_mask\maksssksksss110_12.jpg,No Mask,No Mask
+no_mask\maksssksksss110_13.jpg,No Mask,No Mask
+no_mask\maksssksksss110_2.jpg,No Mask,No Mask
+no_mask\maksssksksss110_3.jpg,No Mask,No Mask
+no_mask\maksssksksss110_4.jpg,No Mask,No Mask
+no_mask\maksssksksss110_5.jpg,No Mask,No Mask
+no_mask\maksssksksss110_6.jpg,No Mask,No Mask
+no_mask\maksssksksss110_7.jpg,No Mask,No Mask
+no_mask\maksssksksss110_8.jpg,No Mask,No Mask
+no_mask\maksssksksss111_1.jpg,No Mask,No Mask
+no_mask\maksssksksss113_0.jpg,No Mask,No Mask
+no_mask\maksssksksss115_0.jpg,No Mask,No Mask
+no_mask\maksssksksss119_0.jpg,No Mask,No Mask
+no_mask\maksssksksss119_1.jpg,No Mask,No Mask
+no_mask\maksssksksss119_2.jpg,No Mask,No Mask
+no_mask\maksssksksss121_0.jpg,No Mask,No Mask
+no_mask\maksssksksss121_1.jpg,No Mask,No Mask
+no_mask\maksssksksss121_2.jpg,No Mask,No Mask
+no_mask\maksssksksss121_3.jpg,No Mask,No Mask
+no_mask\maksssksksss121_4.jpg,No Mask,No Mask
+no_mask\maksssksksss121_5.jpg,No Mask,No Mask
+no_mask\maksssksksss124_1.jpg,No Mask,No Mask
+no_mask\maksssksksss125_0.jpg,No Mask,Mask
+no_mask\maksssksksss128_0.jpg,No Mask,No Mask
+no_mask\maksssksksss12_0.jpg,No Mask,No Mask
+no_mask\maksssksksss130_0.jpg,No Mask,No Mask
+no_mask\maksssksksss130_1.jpg,No Mask,No Mask
+no_mask\maksssksksss130_2.jpg,No Mask,No Mask
+no_mask\maksssksksss131_0.jpg,No Mask,No Mask
+no_mask\maksssksksss131_1.jpg,No Mask,No Mask
+no_mask\maksssksksss131_2.jpg,No Mask,No Mask
+no_mask\maksssksksss131_3.jpg,No Mask,No Mask
+no_mask\maksssksksss134_0.jpg,No Mask,No Mask
+no_mask\maksssksksss134_1.jpg,No Mask,No Mask
+no_mask\maksssksksss138_1.jpg,No Mask,No Mask
+no_mask\maksssksksss139_1.jpg,No Mask,No Mask
+no_mask\maksssksksss139_2.jpg,No Mask,No Mask
+no_mask\maksssksksss139_3.jpg,No Mask,No Mask
+no_mask\maksssksksss139_4.jpg,No Mask,No Mask
+no_mask\maksssksksss139_5.jpg,No Mask,No Mask
+no_mask\maksssksksss139_6.jpg,No Mask,No Mask
+no_mask\maksssksksss145_0.jpg,No Mask,No Mask
+no_mask\maksssksksss148_0.jpg,No Mask,Mask
+no_mask\maksssksksss148_1.jpg,No Mask,No Mask
+no_mask\maksssksksss149_0.jpg,No Mask,No Mask
+no_mask\maksssksksss149_1.jpg,No Mask,No Mask
+no_mask\maksssksksss149_2.jpg,No Mask,No Mask
+no_mask\maksssksksss14_0.jpg,No Mask,Mask
+no_mask\maksssksksss152_0.jpg,No Mask,No Mask
+no_mask\maksssksksss153_0.jpg,No Mask,No Mask
+no_mask\maksssksksss154_0.jpg,No Mask,No Mask
+no_mask\maksssksksss155_1.jpg,No Mask,No Mask
+no_mask\maksssksksss156_0.jpg,No Mask,No Mask
+no_mask\maksssksksss156_1.jpg,No Mask,No Mask
+no_mask\maksssksksss157_0.jpg,No Mask,No Mask
+no_mask\maksssksksss159_0.jpg,No Mask,No Mask
+no_mask\maksssksksss159_1.jpg,No Mask,No Mask
+no_mask\maksssksksss161_0.jpg,No Mask,No Mask
+no_mask\maksssksksss164_0.jpg,No Mask,No Mask
+no_mask\maksssksksss164_1.jpg,No Mask,No Mask
+no_mask\maksssksksss164_2.jpg,No Mask,No Mask
+no_mask\maksssksksss166_0.jpg,No Mask,No Mask
+no_mask\maksssksksss166_1.jpg,No Mask,No Mask
+no_mask\maksssksksss166_2.jpg,No Mask,No Mask
+no_mask\maksssksksss167_1.jpg,No Mask,No Mask
+no_mask\maksssksksss172_0.jpg,No Mask,No Mask
+no_mask\maksssksksss173_1.jpg,No Mask,No Mask
+no_mask\maksssksksss176_0.jpg,No Mask,No Mask
+no_mask\maksssksksss176_1.jpg,No Mask,No Mask
+no_mask\maksssksksss178_0.jpg,No Mask,No Mask
+no_mask\maksssksksss179_0.jpg,No Mask,No Mask
+no_mask\maksssksksss179_1.jpg,No Mask,No Mask
+no_mask\maksssksksss181_0.jpg,No Mask,No Mask
+no_mask\maksssksksss181_1.jpg,No Mask,No Mask
+no_mask\maksssksksss184_0.jpg,No Mask,No Mask
+no_mask\maksssksksss189_0.jpg,No Mask,No Mask
+no_mask\maksssksksss19_0.jpg,No Mask,No Mask
+no_mask\maksssksksss19_3.jpg,No Mask,No Mask
+no_mask\maksssksksss19_4.jpg,No Mask,No Mask
+no_mask\maksssksksss1_0.jpg,No Mask,No Mask
+no_mask\maksssksksss204_0.jpg,No Mask,No Mask
+no_mask\maksssksksss204_3.jpg,No Mask,No Mask
+no_mask\maksssksksss204_4.jpg,No Mask,No Mask
+no_mask\maksssksksss207_1.jpg,No Mask,No Mask
+no_mask\maksssksksss209_0.jpg,No Mask,No Mask
+no_mask\maksssksksss209_2.jpg,No Mask,No Mask
+no_mask\maksssksksss209_4.jpg,No Mask,No Mask
+no_mask\maksssksksss214_0.jpg,No Mask,No Mask
+no_mask\maksssksksss214_1.jpg,No Mask,Mask
+no_mask\maksssksksss216_0.jpg,No Mask,No Mask
+no_mask\maksssksksss216_1.jpg,No Mask,Mask
+no_mask\maksssksksss217_0.jpg,No Mask,No Mask
+no_mask\maksssksksss218_0.jpg,No Mask,No Mask
+no_mask\maksssksksss21_1.jpg,No Mask,No Mask
+no_mask\maksssksksss221_1.jpg,No Mask,No Mask
+no_mask\maksssksksss222_0.jpg,No Mask,No Mask
+no_mask\maksssksksss222_1.jpg,No Mask,No Mask
+no_mask\maksssksksss222_2.jpg,No Mask,No Mask
+no_mask\maksssksksss222_3.jpg,No Mask,No Mask
+no_mask\maksssksksss222_4.jpg,No Mask,No Mask
+no_mask\maksssksksss229_0.jpg,No Mask,No Mask
+no_mask\maksssksksss231_1.jpg,No Mask,No Mask
+no_mask\maksssksksss231_4.jpg,No Mask,No Mask
+no_mask\maksssksksss235_0.jpg,No Mask,No Mask
+no_mask\maksssksksss236_0.jpg,No Mask,No Mask
+no_mask\maksssksksss238_0.jpg,No Mask,No Mask
+
+=== Confusion Matrix ===
+[[121  27]
+ [  6 110]]
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+        Mask       0.95      0.82      0.88       148
+     No Mask       0.80      0.95      0.87       116
+
+    accuracy                           0.88       264
+   macro avg       0.88      0.88      0.87       264
+weighted avg       0.89      0.88      0.88       264
+
+False Rejection Rate (FRR): 0.18
+False Acceptance Rate (FAR): 0.05
