@@ -23,7 +23,7 @@ A MobileNetV2 model pre-trained on ImageNet is used as the base.
 - Class imbalance is handled with weighted loss.
 - Model is trained with early stopping, learning rate adjustment, and checkpoint saving.
 
-## Model Evaluation and Prediction:
+### Model Evaluation and Prediction:
 The trained model is evaluated on the validation data. Predictions are generated and compared with actual labels to measure performance using:
 - Confusion Matrix
 - Classification Report (Precision, Recall, F1-score)
